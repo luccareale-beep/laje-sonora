@@ -43,7 +43,7 @@ h1, h2, h3 {
 }
 
 .topo{
-    border: 1px solid red;
+    
     padding-block: 28px;
     display: flex;
     justify-content: space-between;
@@ -70,4 +70,9 @@ h1, h2, h3 {
 }
 .menu a.atual{
     border-bottom-color: var(--fita);
+}
+.cartazes{
+    margin-top: 16px;
+    display: flex;
+    justify-content: space-between;
 }
